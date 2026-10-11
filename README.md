@@ -1,20 +1,20 @@
-# Hi there 👋 I'm Mayelin L. Camey
+# Hi there , I'm Mayelin
 
-### 💻 Ingeniería en Ciencias y Sistemas
+###  Ingeniería en Ciencias y Sistemas
 
-🎓 Estudiante 
-
----
-
-### 🚀 Actualmente
-
-- 🌱 Aprendiendo
-- 💻 Desarrollando proyectos universitarios
+ Estudiante 
 
 ---
 
-### 📫 Contacto
+###  Actualmente
 
-💻 GitHub: [@mayelinquevedo](https://github.com/mayelinquevedo)
+-  Aprendiendo
+-  Desarrollando proyectos universitarios
+
+---
+
+###  Contacto
+
+ GitHub: [@mayelinquevedo](https://github.com/mayelinquevedo)
 
 ---
