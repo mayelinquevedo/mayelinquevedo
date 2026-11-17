@@ -16,7 +16,7 @@
 ###  Contacto
 
  - GitHub: [@mayelinquevedo](https://github.com/mayelinquevedo)
- - Instagram: instagram/lcapammbrp_
+ - Instagram: instagram.com/lcapammbrp_
  - Tiktok: tiktok.com/@lcapammbrp_
 
 ---
